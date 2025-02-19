@@ -1,4 +1,4 @@
-# Hi there, I'm [Abhishek Adhikari] 👋
+# Hi there, I'm Abhishek Adhikari 👋
 
 ### 🚀 About Me
 - 📊 Data Science & Machine Learning Enthusiast
