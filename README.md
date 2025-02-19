@@ -9,7 +9,7 @@
 - 📈 Built **Models using various ml algorithms like linear regression, decision trees, random forest, cosine similarity, k means clustering , time series analysis using LSTM , ARIMA, etc**
 
 ### 🔧 Technologies & Tools
-- 🐍 Python | 🐼 Pandas | 🤖 Scikit-learn | 🌲 Random Forest | 🏆 Deep Learning
+- 🐍 Python | 🐼 Pandas | 🤖 Scikit-learn | Tenserflow | 🏆 Deep Learning
 - 📝 NLP | 📊 Data Visualization | 📉 Time Series Analysis | 🏗️ Streamlit
 - ⚡ Web Scraping (Selenium, BeautifulSoup) | 🏷️ Machine Learning Pipelines
 
