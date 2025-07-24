@@ -14,6 +14,8 @@
 - ⚡ Web Scraping (Selenium, BeautifulSoup) | 🏷️ Machine Learning Pipelines
 
 ### 📌 Projects
+- **📚 Sentiment aware chatbot** – using langchain, and langraph, integrating with llms, huggingface transformers
+- **📚 SpeechBridge** – ASR system for transcription, trnaslation and summarization pipeline.
 - **📚 Nepali Document Summarizer** – NLP-based app using BERT embeddings & cosine similarity.
 - **📈 Stock Price Prediction** – ARIMA & LSTM-based forecasting for Nepalese financial institutions.
 - **😴 Sleep Disorder Risk Analysis** – Applied machine learning to predict risk levels. etc..
