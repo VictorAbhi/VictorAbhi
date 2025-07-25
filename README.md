@@ -4,7 +4,7 @@
 - 📊 Data Science & Machine Learning Enthusiast
 - 🧑‍💻 Worked on **Multiple data analysis and visualization** projects.
 - 🧑‍💻 Worked on **Nepali Document Summarization App**, **Sleep Disorder Risk Analysis**, many more ....
-- 🎓 Final Year Student | Passionate about AI & Data Science | Passionate about cybersecurity: security research
+- 🎓  Passionate about AI & Data Science | Passionate about cybersecurity: security research
 - 📝 Learning **NLP, Deep Learning, Computer Vision and AI Agents**
 - 📈 Built **Models using various ml algorithms like linear regression, decision trees, random forest, cosine similarity, k means clustering , time series analysis using LSTM , ARIMA, etc**
 
