@@ -1,13 +1,20 @@
 # Hi there, I'm Abhishek Adhikari 👋
 
 ### 🚀 About Me
-- 📊 ml/AI enthusiast | Researcher | Cybersecurity | AWS SAA C03 certified, Let's make secure AI systems.
+- 📊 ml/AI enthusiast | Researcher | Cybersecurity | Let's make secure AI systems.
 - 🧑‍💻 Worked on **Multiple data analysis and visualization** projects.
 - 🧑‍💻 Worked on **Nepali Document Summarization App**, **Sleep Disorder Risk Analysis**, many more ....
 - 🎓  Passionate about integrating AI and business
 - 📝 Learning **NLP, Deep Learning, Computer Vision and AI Agents**
 - 📈 Built **Models using various ml algorithms like linear regression, decision trees, random forest, cosine similarity, k means clustering , time series analysis using LSTM , ARIMA, etc**
 
+### Certifications
+- AWS solutions architect associate - Amazon inc.(June 2025)
+- Certified Application Security Practitioner - Secops Group
+- Certified Network Security Practitioner - Secops Group
+- AWS ML engineer associate - Amazon inc. (upcoming)
+- Practical Junior Penetration Tester(PJPt) - TCM Security (upcoming)
+  
 ### 🔧 Technologies & Tools
 - 🐍 Python | 🐼 Pandas | 🤖 Scikit-learn |⚡Tensorflow | 🏆 Deep Learning
 - 📝 NLP | 📊 Data Visualization | 📉 Time Series Analysis | 🏗️ Streamlit
