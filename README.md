@@ -1,7 +1,7 @@
 # Hi there, I'm Abhishek Adhikari 👋
 
 ### 🚀 About Me
-- 📊 ml/AI enthusiast | Researcher | AWS SAA C03 certified, continuously learning ....
+- 📊 ml/AI enthusiast | Researcher | Cybersecurity | AWS SAA C03 certified, Let's make secure AI systems.
 - 🧑‍💻 Worked on **Multiple data analysis and visualization** projects.
 - 🧑‍💻 Worked on **Nepali Document Summarization App**, **Sleep Disorder Risk Analysis**, many more ....
 - 🎓  Passionate about integrating AI and business
