@@ -12,9 +12,7 @@
 - AWS solutions architect associate - Amazon inc.(June 2025)
 - Certified Application Security Practitioner - Secops Group
 - Certified Network Security Practitioner - Secops Group
-- AWS ML engineer associate - Amazon inc. (upcoming)
-- Practical Junior Penetration Tester(PJPt) - TCM Security (upcoming)
-  
+- AWS ML engineer associate - Amazon inc.   
 ### 🔧 Technologies & Tools
 - 🐍 Python | 🐼 Pandas | 🤖 Scikit-learn |⚡Tensorflow | 🏆 Deep Learning
 - 📝 NLP | 📊 Data Visualization | 📉 Time Series Analysis | 🏗️ Streamlit
