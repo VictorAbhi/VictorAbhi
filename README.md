@@ -1,25 +1,25 @@
 # Hi, I'm Abhishek Adhikari 👋
 
-### 🔐 AI Security | Cybersecurity | AI Risk & Governance
+### AI Security | Cybersecurity | AI Risk & Governance
 
 IT Cybersecurity master's student at **IMT Atlantique**, with a background in **AI/ML, NLP, cloud computing, and cybersecurity**.
 
 Interested in building and assessing **secure AI systems**, with a focus on AI/LLM security, cloud security, threat modeling, and risk management.
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 - **Cybersecurity:** Application Security | Web/API Security | Cloud Security | IAM | Threat Modeling | Risk Assessment
 - **AI/ML:** Python | Scikit-learn | TensorFlow | PyTorch | NLP | Transformers | LLMs | RAG
 - **Cloud & DevOps:** AWS | Docker | Git | CI/CD | Cloud Security
 - **AI Security:** LLM Security | Prompt Injection | RAG Security | AI Risk | AI Governance
 
-### 🔬 Selected Projects
+### Selected Projects
 
-- 🌾 **AI Agriculture Assistant** — RAG-based assistant using LangChain, Pinecone & Gemini.
-- 📚 **SpeechBridge** — Nepali speech transcription, translation & summarization pipeline.
-- 📄 **Nepali Document Summarizer** — NLP application using BERT embeddings.
-- 🤖 **Sentiment-Aware Chatbot** — LLM application using LangChain, LangGraph & Hugging Face.
-- ☁️ **ML on Cloud** — AWS-based machine learning deployment pipeline.
+- **AI Agriculture Assistant** — RAG-based assistant using LangChain, Pinecone & Gemini.
+- **SpeechBridge** — Nepali speech transcription, translation & summarization pipeline.
+- **Nepali Document Summarizer** — NLP application using BERT embeddings.
+- **Sentiment-Aware Chatbot** — LLM application using LangChain, LangGraph & Hugging Face.
+- **ML on Cloud** — AWS-based machine learning deployment pipeline.
 
 ### 🏆 Certifications
 
